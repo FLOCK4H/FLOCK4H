@@ -1,4 +1,4 @@
 ✨ React.js, Electron, PyQt/ PySide, 
-Flask, Scapy, Tailwind CSS</br> 
+Flask, Scapy, Tailwind CSS</br></br>
 ⭐ MicroPython, Python, Lua, 
-JS, JSX, Arduino C, HTML/CSS/SCSS, Pythonista 3
+JS, JSX, Arduino C, HTML/CSS/SCSS, Pythonista3
