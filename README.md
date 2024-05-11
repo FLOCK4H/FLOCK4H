@@ -9,7 +9,7 @@ $${\color{magenta}About\space me}$$
 $${\color{magenta}Frameworks}$$
 
 ✨ React.js | Electron | PyQt/ PySide | 
-Flask | Scapy | Tailwind CSS | Node.js
+Flask | Node.js
 
 $${\color{magenta}Languages}$$
 
