@@ -2,7 +2,7 @@
 
 <img width="128" alt="image" src="https://github.com/FLOCK4H/FLOCK4H/assets/161654571/0182af7e-da1b-4828-9f3e-754de0293cfc">
 
-$${\color{magenta}About\space me}$$
+$${\color{magenta}About\ me}$$
 
 📌 22yo Freelance Software Developer, prioritizing the creation and collection of cybersecurity tools.
 
@@ -14,9 +14,9 @@ Flask | Node.js
 $${\color{magenta}Languages}$$
 
 ⭐ CircuitPython | MicroPython | Python | Lua |
-JS | JSX | Arduino C | HTML/CSS/SCSS | Pythonista3
+JS | JSX | Arduino C | HTML/CSS/SCSS
 
-$${\color{magenta}Most\space recent\space \space relevant\space project}$$
+$${\color{magenta}Most\ recent\ relevant\ project}$$
 
 _Freeway_
 
