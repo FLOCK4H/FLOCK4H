@@ -8,12 +8,12 @@ $${\color{magenta}About\ me}$$
 
 $${\color{magenta}Frameworks}$$
 
-✨ React.js | Electron | PyQt/ PySide | 
+🧹 React.js | Electron | PyQt/ PySide | 
 Flask | Node.js
 
 $${\color{magenta}Languages}$$
 
-⭐ CircuitPython | MicroPython | Python | Lua |
+🍪 CircuitPython | MicroPython | Python | Lua |
 JS | JSX | Arduino C | HTML/CSS/SCSS
 
 $${\color{magenta}Most\ recent\ relevant\ project}$$
