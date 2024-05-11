@@ -4,20 +4,18 @@
 
 $${\color{magenta}About\ me}$$
 
-📌 22yo Freelance Software Developer, prioritizing the creation and collection of cybersecurity tools.
+📌 22yo Freelance Software Developer, prioritizing the creation and collection of **cybersecurity tools**.
 
 $${\color{magenta}Frameworks}$$
 
-🧹 React.js | Electron | PyQt/ PySide | 
-Flask | Node.js
+🧹 **React.js, Electron, PyQt/ PySide, Flask, Node.js**
 
 $${\color{magenta}Languages}$$
 
-🍪 CircuitPython | MicroPython | Python | Lua |
-JS | JSX | Arduino C | HTML/CSS/SCSS
+🍪 **CircuitPython, MicroPython, Python, Lua, JS, JSX, Arduino C, HTML/CSS/SCSS**
 
 $${\color{magenta}Most\ recent\ relevant\ project}$$
 
-_Freeway_
+**_Freeway_**
 
 </div>
