@@ -18,6 +18,8 @@ $${\color{magenta}Most\ recent\ relevant\ project}$$
 
 **_Freeway_**
 
+$${\color{magenta}Want\ to\ support\ my\ hard\ work?}$$
+
 ⭐️ **Show love by leaving a star under liked project or follow me here on github, it motivates me**
 
 </div>
