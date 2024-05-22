@@ -20,7 +20,7 @@
   
   $${\color{magenta}Want\ to\ support\ my\ work?}$$
   
-  ⭐️ Show love by leaving a star under the liked project or follow me here on github
+  ⭐️ Show love, by leaving a star under the liked project or follow me here on github
 
   ![FLOCK4H's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
 
