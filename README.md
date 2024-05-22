@@ -4,7 +4,7 @@
 
 $${\color{magenta}About\ me}$$
 
-📌 22yo Freelance Software Developer, prioritizing the creation and collection of **cybersecurity tools**.
+📌 22yo Freelance Software Developer, AI & Cybersecurity Researcher, prioritizing the creation and collection of **cybersecurity tools**.
 
 $${\color{magenta}Frameworks}$$
 
