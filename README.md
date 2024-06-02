@@ -20,7 +20,7 @@
 
   $${\color{magenta}Next\ update\ for}$$
 
-  **_Freeway_**
+  **_Atom Ducky (upcoming)_**
 
   $${\color{magenta}Want\ to\ support\ my\ work?}$$
   
