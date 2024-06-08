@@ -18,7 +18,7 @@
   
   **_Freeway_**
 
-  $${\color{magenta}Next\ update\ for}$$
+  $${\color{magenta}Currently\ working\ on}$$
 
   **_Atom Ducky (upcoming)_**
 
