@@ -20,7 +20,7 @@
 
   $${\color{magenta}Currently\ working\ on}$$
 
-  **_Atom Ducky (upcoming)_**
+  **_Atom Ducky_**
 
   $${\color{magenta}Want\ to\ support\ my\ work?}$$
   
