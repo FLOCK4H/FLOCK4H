@@ -16,11 +16,11 @@
   
   $${\color{magenta}Most\ recent\ relevant\ project}$$
   
-  **_Freeway_**
+  [**_Atom Ducky_**](https://github.com/FLOCK4H/AtomDucky)
 
   $${\color{magenta}Currently\ working\ on}$$
 
-  **_Atom Ducky_**
+  [**_Freeway_**](https://github.com/FLOCK4H/Freeway)
 
   $${\color{magenta}Want\ to\ support\ my\ work?}$$
   
