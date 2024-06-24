@@ -4,7 +4,17 @@
 
   $${\color{magenta}About\ me}$$
   
-  📌 22yo Freelance Software Developer, AI & Cybersecurity Researcher, prioritizing the creation and collection of **cybersecurity tools**.
+  📌 22yo Software Developer, Cybersecurity Researcher, and former AI Researcher, with a knack for creating popular **cybersecurity tools**.
+
+  $${\color{magenta}My\ goals}$$
+
+💠 **Find the 8th wonder of the ancient world**
+
+💠 **Land a job that I'll love**
+
+💠 **Make the 🌎 a more secure place 🦋**
+
+💠 **Visit Thailand, Hawaii, Japan, Colombia, Spain, and Brasil**
   
   $${\color{magenta}Frameworks}$$
   
