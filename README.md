@@ -12,11 +12,11 @@
 
 💠 **Land a job that I'll love**
 
-💠 **Visit Thailand, Hawaii, Japan, Colombia, Spain, and Brasil**
+💠 **Go around the globe**
   
   $${\color{magenta}Frameworks}$$
   
-  🧹 **React.js, Electron, PyQt/ PySide, Flask, Node.js**
+  🧹 **Scapy, React.js, Electron, PyQt/ PySide, Flask, Node.js**
   
   $${\color{magenta}Languages}$$
   
