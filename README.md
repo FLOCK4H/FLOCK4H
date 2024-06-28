@@ -12,8 +12,6 @@
 
 💠 **Land a job that I'll love**
 
-💠 **Make the 🌎 a more secure place 🦋**
-
 💠 **Visit Thailand, Hawaii, Japan, Colombia, Spain, and Brasil**
   
   $${\color{magenta}Frameworks}$$
