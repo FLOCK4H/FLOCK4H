@@ -6,7 +6,9 @@
 ```
 class FLOCK4H:
   def __init__(self):
-    self.output = True
+    self.smart = True
+    self.handsome = "No" # Only empty strings are falsy
+    self.creative = ''.join([chr(int(b, 2)) for b in "01111001 01100101 01110011".split()])
     
   def about_me(self):
     print("""
@@ -34,13 +36,15 @@ land a job that I'll love doing, and go around the globe
   def support_my_work(self):
     print("""⭐️ Show love, by leaving a star under the liked project or follow me here on github""")
 ```
-
+<div align="center">
+  
   ![FLOCK4H's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
 
   ![FLOCK4H's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FLOCK4H&theme=great-gatsby&hide_border=false)
 
   ![FLOCK4H's Stats](https://github-readme-stats.vercel.app/api?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
-
+  
+</div>
 
 ![](https://komarev.com/ghpvc/?username=FLOCK4H&color=blue&style=for-the-badge)
 <sub>**From 21 June 2024**</sub>
