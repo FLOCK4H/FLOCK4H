@@ -3,7 +3,7 @@
   <img width="128" alt="image" src="https://github.com/FLOCK4H/FLOCK4H/assets/161654571/0182af7e-da1b-4828-9f3e-754de0293cfc">
 </div>
 
-```
+```python
 class FLOCK4H:
   def __init__(self):
     self.smart = True
