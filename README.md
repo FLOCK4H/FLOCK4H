@@ -1,6 +1,16 @@
 <div align="center">
 
   <img width="128" alt="image" src="https://github.com/FLOCK4H/FLOCK4H/assets/161654571/0182af7e-da1b-4828-9f3e-754de0293cfc">
+
+
+**Do you need a Python developer?**
+
+That's great, I'm currently looking for work, and I will appreciate any offer.
+
+@: flock4h@gmail.com
+
+Linked.in: [link](https://www.linkedin.com/in/patryk-andrzejuk-a304a7305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 </div>
 
 ```python
@@ -12,7 +22,7 @@ class FLOCK4H:
     
   def about_me(self):
     print("""
-📌 22yo Software Developer, Cybersecurity Researcher, and former AI Researcher, with a knack for creating popular cybersecurity tools.
+📌 22 years old Software Developer, Cybersecurity Researcher, and former AI Researcher, with a knack for creating popular cybersecurity tools.
     """)
 
   def my_goals(self):
