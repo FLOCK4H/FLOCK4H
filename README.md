@@ -17,7 +17,6 @@ Linked.in: [link](https://www.linkedin.com/in/patryk-andrzejuk-a304a7305?utm_sou
 class FLOCK4H:
   def __init__(self):
     self.smart = True
-    self.handsome = "No" # Only empty strings are falsy
     self.creative = ''.join([chr(int(b, 2)) for b in "01111001 01100101 01110011".split()])
     
   def about_me(self):
