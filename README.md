@@ -1,6 +1,6 @@
 <div align="center">
 
-**Do you need a Python developer?**
+**Do you need an Ethical Hacker or Python developer?**
 
 That's great, I'm currently looking for work, and I will appreciate any offer.
 
