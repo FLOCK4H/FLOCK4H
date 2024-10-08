@@ -1,5 +1,16 @@
 <div align="center">
 
+<h2>Sponsors</h2>
+
+<div align="left">
+<a href="https://github.com/Linuxndroid">
+<img src="https://avatars.githubusercontent.com/u/62838598?v=4" alt="Linuxndroid" width="64"/></a>
+  
+</div>
+  
+<br />
+<br />
+
 **Do you need an Ethical Hacker or Python developer?**
 
 That's great, I'm currently looking for work, and I will appreciate any offer.
