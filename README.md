@@ -1,15 +1,18 @@
 <div align="center">
 
-<h2>Sponsors</h2>
+<h2>Sponsors ❤️</h2>
 
 <div align="left">
 <a href="https://github.com/Linuxndroid">
 <img src="https://avatars.githubusercontent.com/u/62838598?v=4" alt="Linuxndroid" width="64"/></a>
   
 </div>
-  
-<br />
-<br />
+
+</br>
+
+I like coffee, so if you like my work and want to support with something more than a star, you can buy me a coffee.
+
+Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
 **Do you need an Ethical Hacker or Python developer?**
 
