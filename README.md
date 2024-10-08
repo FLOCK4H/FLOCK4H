@@ -2,19 +2,18 @@
 
 <h2>Sponsors ❤️</h2>
 
-<div align="left">
 <a href="https://github.com/Linuxndroid">
 <img src="https://avatars.githubusercontent.com/u/62838598?v=4" alt="Linuxndroid" width="64"/></a>
-  
-</div>
 
 </br>
 
-I like coffee, so if you like my work and want to support with something more than a star, you can buy me a coffee.
+I like coffee, so if you like my work and want to support with something more than a star, you can feel free to buy me one.
 
-Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
+My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
-**Do you need an Ethical Hacker or Python developer?**
+<h2>Me</h2>
+
+**Are you looking for an Ethical Hacker, Software, Drivers, or Microcontrollers developer?**
 
 That's great, I'm currently looking for work, and I will appreciate any offer.
 
@@ -42,7 +41,7 @@ land a job that I'll love doing, and go around the globe
     """)
 
   def frameworks(self):
-    print("""🧹 Scapy, React.js, Electron, PyQt/ PySide, Flask, Node.js""")
+    print("""🧹 Scapy, React.js, Electron, PyQt/ PySide, Flask, Websockets...""")
   
   def languages(self):
     print("""CircuitPython, MicroPython, Python, Lua, JS, JSX, Arduino C, HTML/CSS/SCSS""")
@@ -54,7 +53,7 @@ land a job that I'll love doing, and go around the globe
     self.the_reaper = "https://github.com/FLOCK4H/TheReaper" # incoming
 
   def support_my_work(self):
-    print("""⭐️ Show love, by leaving a star under the liked project or follow me here on github""")
+    print("""⭐️ Show love, by leaving a star under the liked project, become a sponsor, or follow me here on github""")
 ```
 <div align="center">
   
