@@ -60,8 +60,6 @@ land a job that I'll love doing, and go around the globe
   
   ![FLOCK4H's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
 
-  ![FLOCK4H's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FLOCK4H&theme=great-gatsby&hide_border=false)
-
   ![FLOCK4H's Stats](https://github-readme-stats.vercel.app/api?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
   
 </div>
