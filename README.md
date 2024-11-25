@@ -1,7 +1,5 @@
 <div align="center">
 
-**Currently exploring: Solana Blockchain**
-
 <h2>Sponsors ❤️</h2>
 
 <a href="https://github.com/Linuxndroid">
@@ -15,6 +13,8 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 <br />
 
 <h2>Me</h2>
+
+**Busy exploring: Solana Blockchain**
 
 **Are you looking for an Ethical Hacker, Software, Drivers, or Microcontrollers developer?**
 
