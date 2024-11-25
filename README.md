@@ -1,5 +1,7 @@
 <div align="center">
 
+**Currently exploring: Solana Blockchain**
+
 <h2>Sponsors ❤️</h2>
 
 <a href="https://github.com/Linuxndroid">
