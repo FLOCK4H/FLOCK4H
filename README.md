@@ -16,6 +16,8 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
 **Busy exploring: Solana Blockchain**
 
+No, I'm not dead, I'll be back.
+
 **Are you looking for an Ethical Hacker, Software, Drivers, or Microcontrollers developer?**
 
 That's great, I'm currently looking for work, and I will appreciate any offer.
