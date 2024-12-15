@@ -10,6 +10,17 @@
 I like coffee, so if you like my work and want to support with something more than a star, you can feel free to buy me one.
 
 My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
+
+<br />
+
+<h2>Hire Me</h2>
+
+**NEW**
+
+Want me to develop something for you? Contact me, and we will figure out your project together. 
+
+My profile on upwork: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4d3">upwork.com/freelancers/...</a>
+
 <br />
 
 <h2>Me</h2>
