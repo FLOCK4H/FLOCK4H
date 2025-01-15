@@ -25,10 +25,6 @@ My profile on upwork: <a href="https://www.upwork.com/freelancers/~01267a86468c7
 
 <h2>Me</h2>
 
-**Busy exploring: Solana Blockchain**
-
-No, I'm not dead, I'll be back.
-
 **Are you looking for an Ethical Hacker, Software, Drivers, or Microcontrollers developer?**
 
 That's great, I'm currently looking for work, and I will appreciate any offer.
