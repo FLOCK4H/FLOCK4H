@@ -25,6 +25,8 @@ My profile on upwork: <a href="https://www.upwork.com/freelancers/~01267a86468c7
 
 <h2>Me</h2>
 
+**Currently working on [Freeway](https://github.com/FLOCK4H/Freeway)**,
+
 **Are you looking for an Ethical Hacker, Software, Drivers, or Microcontrollers developer?**
 
 That's great, I'm currently looking for work, and I will appreciate any offer.
@@ -62,6 +64,7 @@ land a job that I'll love doing, and go around the globe
     self.atom_ducky = "https://github.com/FLOCK4H/AtomDucky"
 
   def currently_working_on(self):
+    self.freeway = "Freeway update is on the way!"
     self.the_reaper = "https://github.com/FLOCK4H/TheReaper" # incoming
 
   def support_my_work(self):
