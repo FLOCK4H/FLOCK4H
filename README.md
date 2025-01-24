@@ -29,7 +29,7 @@ My profile on upwork: <a href="https://www.upwork.com/freelancers/~01267a86468c7
 
 **Are you looking for an Ethical Hacker, Software, Drivers, or Microcontrollers developer?**
 
-That's great, I'm currently looking for work, and I will appreciate any offer.
+Great, I'm currently looking for work, below is my e-mail address and a link to my Linked.in profile.
 
 @: flock4h@gmail.com
 
