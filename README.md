@@ -25,6 +25,8 @@ Freelance profile: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4
 
 <h2>Me</h2>
 
+**I'm bulding a community!**
+
 ⭐️⭐️⭐️
 
 **Telegram group: [FLOCK4H.CAVE](https://t.me/flock4hcave)**
