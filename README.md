@@ -1,13 +1,5 @@
 <div align="center">
 
-⭐️⭐️⭐️
-
-**Telegram group: [FLOCK4H.CAVE](https://t.me/flock4hcave)**
-
-**Discord server: [Discord](https://discord.gg/thREUECv2a)**
-
-⭐️⭐️⭐️
-
 <h2>Sponsors ❤️</h2>
 
 <a href="https://github.com/Linuxndroid">
@@ -32,6 +24,14 @@ Freelance profile: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4
 <br />
 
 <h2>Me</h2>
+
+⭐️⭐️⭐️
+
+**Telegram group: [FLOCK4H.CAVE](https://t.me/flock4hcave)**
+
+**Discord server: [Discord](https://discord.gg/thREUECv2a)**
+
+⭐️⭐️⭐️
 
 **Currently working on [Freeway](https://github.com/FLOCK4H/Freeway)**,
 
