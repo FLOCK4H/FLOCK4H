@@ -17,9 +17,17 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
 **NEW**
 
+⭐️⭐️⭐️
+
+**Telegram group: [FLOCK4H.CAVE](https://t.me/flock4hcave)**
+
+**Discord server: [Discord](https://discord.gg/thREUECv2a)**
+
+⭐️⭐️⭐️
+
 Want me to develop something for you? Contact me, and we will figure out your project together. 
 
-My profile on upwork: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4d3">upwork.com/freelancers/...</a>
+Freelancing website: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4d3">Upwork</a>
 
 <br />
 
