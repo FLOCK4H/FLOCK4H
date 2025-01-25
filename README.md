@@ -27,7 +27,7 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
 Want me to develop something for you? Contact me, and we will figure out your project together. 
 
-Freelancing website: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4d3">Upwork</a>
+Freelance profile: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4d3">Upwork</a>
 
 <br />
 
