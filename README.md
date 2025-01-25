@@ -1,5 +1,13 @@
 <div align="center">
 
+⭐️⭐️⭐️
+
+**Telegram group: [FLOCK4H.CAVE](https://t.me/flock4hcave)**
+
+**Discord server: [Discord](https://discord.gg/thREUECv2a)**
+
+⭐️⭐️⭐️
+
 <h2>Sponsors ❤️</h2>
 
 <a href="https://github.com/Linuxndroid">
@@ -16,14 +24,6 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 <h2>Hire Me</h2>
 
 **NEW**
-
-⭐️⭐️⭐️
-
-**Telegram group: [FLOCK4H.CAVE](https://t.me/flock4hcave)**
-
-**Discord server: [Discord](https://discord.gg/thREUECv2a)**
-
-⭐️⭐️⭐️
 
 Want me to develop something for you? Contact me, and we will figure out your project together. 
 
