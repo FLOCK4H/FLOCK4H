@@ -47,39 +47,6 @@ Linked.in: [link](https://www.linkedin.com/in/patryk-andrzejuk-a304a7305?utm_sou
 
 </div>
 
-```python
-class FLOCK4H:
-  def __init__(self):
-    self.smart = True
-    self.creative = ''.join([chr(int(b, 2)) for b in "01111001 01100101 01110011".split()])
-    
-  def about_me(self):
-    print("""
-📌 22 years old Software Developer, Cybersecurity Researcher, and former AI Researcher, with a knack for creating popular cybersecurity tools.
-    """)
-
-  def my_goals(self):
-    print("""
-Find the 8th wonder of the ancient world, 
-land a job that I'll love doing, and go around the globe
-    """)
-
-  def frameworks(self):
-    print("""🧹 Scapy, React.js, Electron, PyQt/ PySide, Flask, Websockets...""")
-  
-  def languages(self):
-    print("""C++, SQL, CircuitPython, MicroPython, Python, Lua, JS, JSX, Arduino C, HTML/CSS/SCSS""")
-  
-  def most_recent_relevant_project(self):
-    self.atom_ducky = "https://github.com/FLOCK4H/AtomDucky"
-
-  def currently_working_on(self):
-    self.freeway = "Freeway update is on the way!"
-    self.the_reaper = "https://github.com/FLOCK4H/TheReaper" # incoming
-
-  def support_my_work(self):
-    print("""⭐️ Show love, by leaving a star under the liked project, become a sponsor, or follow me here on github""")
-```
 <div align="center">
   
   ![FLOCK4H's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
