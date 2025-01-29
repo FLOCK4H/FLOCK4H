@@ -68,7 +68,7 @@ land a job that I'll love doing, and go around the globe
     print("""🧹 Scapy, React.js, Electron, PyQt/ PySide, Flask, Websockets...""")
   
   def languages(self):
-    print("""CircuitPython, MicroPython, Python, Lua, JS, JSX, Arduino C, HTML/CSS/SCSS""")
+    print("""C++, SQL, CircuitPython, MicroPython, Python, Lua, JS, JSX, Arduino C, HTML/CSS/SCSS""")
   
   def most_recent_relevant_project(self):
     self.atom_ducky = "https://github.com/FLOCK4H/AtomDucky"
