@@ -19,11 +19,11 @@ Want me to develop something for you? Contact me, and we will figure out your pr
 
 Freelance profile: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4d3">Upwork</a>
 
+Links to other socials are below.
+
 <br />
 
 <h2>Me</h2>
-
-**I'm bulding a community, be one of the firsts:**
 
 ⭐️⭐️⭐️
 
