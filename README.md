@@ -54,4 +54,3 @@ Linked.in: [link](https://www.linkedin.com/in/patryk-andrzejuk-a304a7305?utm_sou
 </div>
 
 ![](https://komarev.com/ghpvc/?username=FLOCK4H&color=blue&style=for-the-badge)
-<sub>**From 21 June 2024**</sub>
