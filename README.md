@@ -35,9 +35,9 @@ Links to other socials are below.
 
 **Currently working on [Dexter](https://github.com/FLOCK4H/Dexter)**,
 
-**Are you looking for an Ethical Hacker, Software, Drivers, or Microcontrollers developer?**
+**Looking for a dev?**
 
-Great, I'm currently looking for work, below is my e-mail address and a link to my Linked.in profile.
+Below is my e-mail address and a link to my Linked.in profile.
 
 @: flock4h@gmail.com
 
