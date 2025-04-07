@@ -13,16 +13,6 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
 <br />
 
-<h2>Hire Me</h2>
-
-Want me to develop something for you? Contact me, and we will figure out your project together. 
-
-Freelance profile: <a href="https://www.upwork.com/freelancers/~01267a86468c7ae4d3">Upwork</a>
-
-Links to other socials are below.
-
-<br />
-
 <h2>Me</h2>
 
 ⭐️⭐️⭐️
