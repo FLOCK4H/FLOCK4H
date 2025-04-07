@@ -27,8 +27,6 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
 **Looking for a dev?**
 
-Below is my e-mail address and a link to my Linked.in profile.
-
 @: flock4h@gmail.com
 
 Linked.in: [link](https://www.linkedin.com/in/patryk-andrzejuk-a304a7305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
