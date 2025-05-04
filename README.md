@@ -25,12 +25,12 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
 ⭐️⭐️⭐️
 
-**Currently working on [Dexter](https://github.com/FLOCK4H/Dexter)**,
-
 **Looking for a dev?**
 
 @: flock4h@gmail.com
 
+Telegram handle: @dubskii420
+Discord handle: flockahh
 Linked.in: [link](https://www.linkedin.com/in/patryk-andrzejuk-a304a7305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 </div>
