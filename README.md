@@ -11,8 +11,6 @@ I like coffee, so if you like my work and want to support with something more th
 
 My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
-<br />
-
 <h2>Me</h2>
 
 **I provide Solana development services: [Medium](https://medium.com/@flytechoriginal/i-build-real-systems-on-solana-you-might-need-one-03c67de17b7b)**
