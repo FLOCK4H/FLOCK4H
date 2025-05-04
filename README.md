@@ -21,22 +21,22 @@ My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
 **Telegram group: [FLOCK4H.CAVE](https://t.me/flock4hcave)**
 
-**Discord server: [Discord](https://discord.gg/thREUECv2a)**
+**Discord server: [FLOCK4H.CAVE](https://discord.gg/thREUECv2a)**
 
 ⭐️⭐️⭐️
 
-**Looking for a dev?**
+<h2>Business Contact</h2>
 
 @: flock4h@gmail.com
 
 Telegram handle: @dubskii420
+
 Discord handle: flockahh
+
 Linked.in: [link](https://www.linkedin.com/in/patryk-andrzejuk-a304a7305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-</div>
+<h2>Stats</h2>
 
-<div align="center">
-  
   ![FLOCK4H's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
 
   ![FLOCK4H's Stats](https://github-readme-stats.vercel.app/api?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
