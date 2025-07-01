@@ -29,7 +29,7 @@ My Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
 
 @: flock4h@gmail.com
 
-Company name: **FLOCK4H**
+Business name: **FLOCK4H**
 
 Telegram handle: @dubskii420
 
