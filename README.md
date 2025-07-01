@@ -11,7 +11,7 @@ I like coffee, so if you like my work and want to support with something more th
 
 My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
-My Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
+My Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
 
 <h2>Me</h2>
 
