@@ -1,14 +1,5 @@
 <div align="center">
 
-<h2>Sponsors ❤️</h2>
-
-<a href="https://github.com/Linuxndroid">
-<img src="https://avatars.githubusercontent.com/u/62838598?v=4" alt="Linuxndroid" width="64"/></a>
-
-</br>
-
-Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
-
 Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
 
 <h2>Me</h2>
