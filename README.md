@@ -2,8 +2,6 @@
 
 Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
 
-<h2>Me</h2>
-
 🐋🐋🐋
 
 **Business @: flock4h@gmail.com**
