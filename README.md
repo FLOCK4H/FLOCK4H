@@ -7,9 +7,9 @@
 
 </br>
 
-My Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
+Ko-Fi: <a href="https://ko-fi.com/FLOCK4H">Ko-Fi/flock4hh</a>
 
-My Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
+Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
 
 <h2>Me</h2>
 
@@ -29,14 +29,6 @@ My Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
 
 ⭐️⭐️⭐️
 
-
-
-<h2>Stats</h2>
-
-  ![FLOCK4H's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
-
-  ![FLOCK4H's Stats](https://github-readme-stats.vercel.app/api?username=FLOCK4H&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
-  
 </div>
 
 ![](https://komarev.com/ghpvc/?username=FLOCK4H&color=blue&style=for-the-badge)
