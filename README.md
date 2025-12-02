@@ -4,7 +4,7 @@ Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
 
 <h2>Me</h2>
 
-⭐️⭐️⭐️
+🐋🐋🐋
 
 **Business @: flock4h@gmail.com**
 
@@ -18,7 +18,7 @@ Solana Tip Wallet: `FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC`
 
 **Linked.in: [link](https://www.linkedin.com/in/patryk-andrzejuk-a304a7305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**
 
-⭐️⭐️⭐️
+🐋🐋🐋
 
 </div>
 
